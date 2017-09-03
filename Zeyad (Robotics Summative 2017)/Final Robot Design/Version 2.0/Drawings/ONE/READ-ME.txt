@@ -1,0 +1,2 @@
+If you open up the SLDDRW files and nothing shows up, you might have to restore the references.
+Just open up Solidworks Explorer, and fix up the references.
